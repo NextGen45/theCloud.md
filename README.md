@@ -1,10 +1,7 @@
 ## How  are respositories used
 respositories are used to organize a single project. Which can contain images and other filies as well.
 
-
-
 ## cloning repositories 
-
 Well first Git will automatically give the origin name then you clone the  master name to your local branch.
 
 ### how to see Your Remotes
